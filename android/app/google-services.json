@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "886952601313",
+    "project_id": "tickitz-vickri",
+    "storage_bucket": "tickitz-vickri.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886952601313:android:c9fdcdfddd146597b7b9a0",
+        "android_client_info": {
+          "package_name": "com.tickitz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886952601313-66c6u38lggj60nnsdcamskqk4ievp3en.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQMwr7byVbqCaq0ttb-q6eDGj8xmV_Jqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886952601313-66c6u38lggj60nnsdcamskqk4ievp3en.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
